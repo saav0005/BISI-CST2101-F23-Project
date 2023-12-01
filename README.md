@@ -1,6 +1,6 @@
 The BISI CST2101 Project - Diabetes Analysis consists of the solution of a notebook where different aspects of Diabetes in the Pima tribe are analyzed through the analysis of exploratory data.
 
-Data Dictionary
+Data Dictionary.
 The data set has the following information:
 
 Pregnancies: Number of times you are pregnant
